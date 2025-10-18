@@ -1,7 +1,10 @@
 # Global-Electronics-Retailer-Project
 
+# Note: This project simulates a real-world business case for a global retailer. All data and entities are fictional but modeled on realistic scenarios.
+
 ## Background & Overview
 The Global Electronics Retailer (GER) is a fictitious company selling 2,517 distinct electronics products under eight categories in eight countries. The dataset contains transactional, customer, product, sales, and exchange rate data.
+
 
 ## Project Purpose
 I designed this project to transform raw data into actionable insights using data cleaning, exploratory data analysis, and visualization through MySQL and Power BI. My main objectives were to expand on these skills:
